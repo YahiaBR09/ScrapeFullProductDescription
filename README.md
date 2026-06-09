@@ -219,9 +219,8 @@ openpyxl       3.11.0
 
 ## 📞 التواصل
 
-- **GitHub:** [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- **البريد:** your.email@example.com
-
+- **GitHub:** [YahiaBR09](https://github.com/YahiaBR09)
+- **Email:** yahiaberrim017@gmail.com
 ---
 
 ### ⭐ إذا استفدت من المشروع، لا تنسَ إضافة نجمة!
